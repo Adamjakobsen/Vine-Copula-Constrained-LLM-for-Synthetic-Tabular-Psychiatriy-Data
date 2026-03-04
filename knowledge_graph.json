@@ -1,0 +1,544 @@
+{
+    "SEPARATION ANXIETY": {
+      "full_name": "SEPARATION ANXIETY DISORDER",
+      "clinical_definition": "SEPARATION ANXIETY DISORDER is characterised by a disproportionate/excessive worry and fear (anomalous for the developmental level) of being away from people to whom the individual is attached. Separation or the threat of separation raises concerns about losing partners or close family or other attachment figures through illness, accidents or catastrophic events. People with separation anxiety disorder often have an aversion to going to work or university, sleeping alone, being away from home, and being left, and often want to be in close contact with loved ones (e.g., through phone calls or text messages and social media). Nightmares and physical symptoms associated with separation (e.g., headaches, stomach aches, nausea) are also common. For diagnosis, the worry and anxiety should be disabling and persistent with a duration of at least 1 month in individual.",
+      "dsm5_criteria": {
+        "A1": [
+          {
+            "objective": "Assesses whether the individual repeatedly becomes excessively anxious or fearful of being away from home or away from partners or close family or other relatives.",
+            "clinical_probing_questions": [
+              "Do you usually get worried or scared when you are going to be away or when you are away from your partners or close family or someone else who is important to you?",
+              "Do you usually get worried or scared when your partners or close family go away somewhere, e.g., for shopping or work?",
+              "Do you usually get worried or scared when you are away from home, e.g., when you are going to work or university or other activities?",
+              "What do you usually do when you get so worried?",
+              "Do you usually like to have a lot of contact with your partners or close family or someone else who is important to you, for example, by phone or text message when you are away from them?",
+              "Do others think you are excessively afraid?"
+            ]
+          }
+        ],
+        "A2": [
+          {
+            "objective": "Assesses whether the individual has persistent and excessive anxiety and fear of losing partners or close family or other loved ones or about possible harm to them, such as illness, injury, death or some other catastrophic event.",
+            "clinical_probing_questions": [
+              "Do you often feel anxious or afraid of losing your partners or close family or someone else who is important to you?",
+              "Do you often have thoughts about something bad happening to your partners or close family or someone else who is important to you?",
+              "Do you often worry or fear that your partners or close family or someone important to you will have an accident and be injured, or become ill or die? What do you usually worry or fear will happen?",
+              "Do others think you are excessively afraid?"
+            ]
+          }
+        ],
+        "A3": [
+          {
+            "objective": "Assesses whether the individual has a persistent and excessive fear and anxiety that something unfortunate will happen that would result in the individual being separated from partners or close family or other close relatives (e.g., kidnapping, getting lost, falling ill, having an accident).",
+            "clinical_probing_questions": [
+              "Do you often feel anxious or afraid that something bad will happen to you, separating you from your partners or close family or someone else who is important to you?",
+              "Do you often worry or fear that you will get sick, have an accident or get lost and not be able to see your partners or close family or someone else who is important to you? What do you usually worry will happen?",
+              "Do others think you are excessively afraid?"
+            ]
+          }
+        ],
+        "A4": [
+          {
+            "objective": "Assesses whether the individual has a persistent reluctance or refusal to leave home, or going to work or university or anywhere else because of fear of being separated from partners or close family or other relatives.",
+            "clinical_probing_questions": [
+              "Would you rather not leave home, go to work or university or anywhere else because you are afraid of being away from your partners or close family or someone else who is important to you?",
+              "Do you usually want to stay home from work or university because you are afraid of being away from your partners or close family or someone else who is important to you? How difficult or hard is this for you?"
+            ]
+          }
+        ],
+        "A5": [
+          {
+            "objective": "Assesses whether the individual has a persistent and excessive fear or dislike of being alone or without partners or close family or other carers at home or in other settings.",
+            "clinical_probing_questions": [
+              "Do you get worried, scared or angry when you have to stay home alone without your partners or close family or someone else who is important to you?",
+              "Can you be alone at home? During the day or at night?",
+              "Do you always want to be with your partners or close family or someone else who is important to you at home or when you are away from home or somewhere else?",
+              "Do others think you are excessively afraid?"
+            ]
+          }
+        ],
+        "A6": [
+          {
+            "objective": "Assesses whether the individual has a persistent aversion to or refuses to sleep away from home, or to fall asleep alone, without being close to partners or close family or other carers.",
+            "clinical_probing_questions": [
+              "Is it usually difficult for you to sleep alone? Do you feel afraid to sleep alone, without your partners or close family or someone else who is important to you?",
+              "How do you go to sleep? (e.g., light on, sleep with siblings or pets, partner or primary attachment figure stays with you until you fall asleep?)",
+              "Do you go to your mum or dad's bed at night because you are afraid to sleep alone?",
+              "Do you usually avoid sleeping over with friends or somewhere else because you are afraid of sleeping without your partners or close family?"
+            ]
+          }
+        ],
+        "A7": [
+          {
+            "objective": "Assesses whether the individual has recurring nightmares about being separated from partners or close family or other relatives.",
+            "clinical_probing_questions": [
+              "Do you often have nightmares about being away from your partners or close family or someone else who is important to you?",
+              "Do you dream that you are alone?",
+              "How often do you have such dreams?",
+              "How hard is it for you?"
+            ]
+          }
+        ],
+        "A8": [
+          {
+            "objective": "Assesses whether the individual often complains of physical symptoms (e.g., stomach ache, headache, nausea) before or during separation from partners or close family or other relatives.",
+            "clinical_probing_questions": [
+              "Is it so hard that you feel sick when you have to be away from your partners or close family or someone else who is important to you?",
+              "Do you get a stomach ache, a headache or feel sick when you are away from your partners or close family or someone else who is important to you?",
+              "Do you often feel sick when you have to go to work or university or other activities and have to be away from your partners or close family or someone else who is important to you?"
+            ]
+          }
+        ],
+        "B": [
+          {
+            "objective": "Assesses whether the individual's fear, anxiety or avoidance is persistent (has been present for at least 1 month).",
+            "clinical_probing_questions": [
+              "How long has it been this hard for you to be away from your partners or close family or someone else who is important to you?",
+              "Do you remember when it started to feel difficult?",
+              "Do you remember when you started wanting to stay at home because you didn't want to be away from your partners or close family?",
+              "Has it been like this for a long time? Has it been this way for 1 month or more?"
+            ]
+          }
+        ],
+        "C": [
+          {
+            "objective": "Assesses whether the individual's fear, anxiety or avoidance is causing clinically significant distress or disability (e.g., in social, work or university, family or other areas).",
+            "clinical_probing_questions": [
+              "How does this affect your life? Does it cause problems? In what way?",
+              "Does it cause problems in your free time? When you go out with friends?",
+              "Is your work or universitywork affected in any way? In what way?",
+              "Does this mean that you need a lot of support, help or adjustment from your family, partners or close family or friends? In what way?",
+              "Is your life affected in any other way that I have not asked about?"
+            ]
+          }
+        ]
+      },
+      "severity_logic": {
+        "scale": "0 to 4 Likert scale for each item",
+        "instruction": "Answer the 10 items such that your AVERAGE score matches the severity tier below:",
+        "thresholds": {
+          "none": "Target an average score around 0 (range 0.0 - 0.4). You rarely or never experience these symptoms. Answer mostly 0s.",
+          "mild": "Target an average score around 1 (range 0.5 - 1.4). Answer mostly 1s with occasional 0s or 2s.",
+          "moderate": "Target an average score around 2 (range 1.5 - 2.4). Answer mostly 2s with some 1s or 3s.",
+          "severe": "Target an average score around 3 (range 2.5 - 3.4). Answer mostly 3s with some 2s or 4s.",
+          "extreme": "Target an average score around 4 (range 3.5 - 4.0). Answer almost entirely 4s."
+        }
+      },
+      "questionnaire_alignment": [
+        "felt moments of sudden terror, fear, or fright when separated",
+        "felt anxious, worried, or nervous about being separated",
+        "have had thoughts of bad things happening to people important to me or bad things happening to me when separated from them (e.g., getting lost, accidents)",
+        "felt a racing heart, sweaty, trouble breathing, faint, or shaky when separated",
+        "felt tense muscles, felt on edge or restless, or had trouble relaxing or trouble sleeping when separated",
+        "avoided going places where I would be separated",
+        "when separated, left places early to go home",
+        "spent a lot of time preparing for how to deal with separation",
+        "distracted myself to avoid thinking about being separated",
+        "needed help to cope with separation (e.g., alcohol or medications, superstitious objects)"
+      ]
+    },
+    "SPECIFIC PHOBIA": {
+      "full_name": "SPECIFIC PHOBIA",
+      "clinical_definition": "SPECIFIC PHOBIA is characterised by an excessive fear or anxiety about a specific object or situation. The anxiety or fear may\nbe about specific objects: animals (e.g., dogs, spiders, snakes and insects), natural phenomena (e.g., storms, heights, water),\nblood-spatter injuries or situational/other forms (e.g., people in costume, lifts, flying).\nIn individuals, the specific phobia may be expressed as emotional distress, dependency, anxiety attacks, angry outbursts, etc. Fear often leads\nto avoidance behaviour (e.g., the individual refuses injections, does not fly, does not go in lifts, etc.), which affects the adult's\nfunctioning. Vomiting phobia is a form of specific phobia that can be particularly important to recognise as it is often very\ndisabling.\nDiagnosis requires that symptoms are persistent with a duration of at least 6 months.",
+      "dsm5_criteria": {
+        "B": [
+          {
+            "objective": "Assesses whether the phobic object or situations almost always arouse immediate reaction, anxiety or fear.",
+            "clinical_probing_questions": [
+              "Do you get very scared at once and react strongly every time you see those things or situations you mentioned before?"
+            ]
+          }
+        ],
+        "C": [
+          {
+            "objective": "Assesses whether the phobic object or situations are being avoided altogether or whether the individual endures the situations under intense fear or anxiety.",
+            "clinical_probing_questions": [
+              "Do you usually avoid situations or things that you are so afraid of?",
+              "Can you be close to what you are afraid of if you have someone with you?",
+              "Can you be close to it even if it's really hard?",
+              "What do you usually do to cope?"
+            ]
+          }
+        ],
+        "D": [
+          {
+            "objective": "Assesses whether the adult's fear or anxiety is exaggerated in relation to the actual danger that the phobic object/situation may pose.",
+            "clinical_probing_questions": [
+              "Do you think everyone feels like you do in these situations?",
+              "Do you think it is worse for you than for others?",
+              "Do your family, relatives or friends think you are excessively afraid?"
+            ]
+          }
+        ],
+        "E": [
+          {
+            "objective": "Assesses whether the adult's fear, anxiety or avoidance is persistent (has been present at least 6 months).",
+            "clinical_probing_questions": [
+              "How long have you been this afraid of what you told me about? When did it start?",
+              "Has it been like this all the time for more than 6 months?"
+            ]
+          }
+        ],
+        "F": [
+          {
+            "objective": "Assesses whether the adult's fear, anxiety or avoidance is causing clinically significant distress or disability (e.g., social, work or university, family or other areas).",
+            "clinical_probing_questions": [
+              "How does this affect your life? Does it cause problems? In what way?",
+              "Does it cause problems in your free time? When you go out with friends?",
+              "Is your work or universitywork affected in any way? In what way?",
+              "Does this mean that you need a lot of support, help or adjustment from your family, partners or close family or friends? In what way?",
+              "Is your life affected in any other way that I have not asked about?"
+            ]
+          }
+        ]
+      },
+      "severity_logic": {
+        "scale": "0 to 4 Likert scale for each item",
+        "instruction": "Answer the 10 items such that your AVERAGE score matches the severity tier below:",
+        "thresholds": {
+          "none": "Target an average score around 0 (range 0.0 - 0.4). You rarely or never experience these symptoms. Answer mostly 0s.",
+          "mild": "Target an average score around 1 (range 0.5 - 1.4). Answer mostly 1s with occasional 0s or 2s.",
+          "moderate": "Target an average score around 2 (range 1.5 - 2.4). Answer mostly 2s with some 1s or 3s.",
+          "severe": "Target an average score around 3 (range 2.5 - 3.4). Answer mostly 3s with some 2s or 4s.",
+          "extreme": "Target an average score around 4 (range 3.5 - 4.0). Answer almost entirely 4s."
+        }
+      },
+      "questionnaire_alignment": [
+        "felt moments of sudden terror, fear, or fright in these situations",
+        "felt anxious, worried, or nervous about these situations",
+        "had thoughts of being injured, overcome with fear, or other bad things happening in these situations",
+        "felt a racing heart, sweaty, trouble breathing, faint, or shaky in these situations",
+        "felt tense muscles, felt on edge or restless, or had trouble relaxing in these situations",
+        "avoided, or did not approach or enter, these situations",
+        "moved away from these situations or left them early",
+        "spent a lot of time preparing for, or procrastinating about (i.e., putting off), these situations",
+        "distracted myself to avoid thinking about these situations",
+        "needed help to cope with these situations (e.g., alcohol or medications, superstitious objects, other people)"
+      ]
+    },
+    "SOCIAL ANXIETY": {
+      "full_name": "SOCIAL ANXIETY DISORDER",
+      "clinical_definition": "SOCIAL ANXIETY DISORDER is characterised by excessive anxiety and fear of being noticed, scrutinised and behaving in a way that could provoke criticism and negative judgements from others (e.g., making a fool of oneself, appearing strange or showing signs of nervousness). Social situations cause anxiety, which often leads to avoidance behaviour in work or university, such as not raising your hand to answer questions in class or refusing to give an oral presentation, or in leisure time, by refusing to participate or not participating in social activities. For diagnosis, the anxiety and fear should be disabling and persistent, lasting several months, and also present in peer relationships (not just with adults).",
+      "dsm5_criteria": {
+        "B": [
+          {
+            "objective": "Assesses whether the individual is worried about showing symptoms of anxiety or worry or about behaving in a way that will be negatively evaluated by others (i.e., be embarrassing, lead to rejection).",
+            "clinical_probing_questions": [
+              "When you are in these social situations, do you worry that you will behave in an embarrassing way and make a fool of yourself or fail? That others will think you are stupid or weird and laugh at you?",
+              "Are you worried about behaving in a way that makes others not want to be with you?"
+            ]
+          }
+        ],
+        "C": [
+          {
+            "objective": "Assesses whether the social situations almost always cause fear or anxiety.",
+            "clinical_probing_questions": [
+              "How do you feel when you are in these social situations? Is it very hard and uncomfortable? Do you usually worry a lot or feel very stressed about these social situations?",
+              "Does it get so bad that you can't say anything? Do you become silent? Do you get angry? Do you start crying?",
+              "Do you feel this way every or almost every time you are in these situations?"
+            ]
+          }
+        ],
+        "D": [
+          {
+            "objective": "Assesses whether the social situations are being avoided altogether or whether the individual endures the situations under intense fear or anxiety.",
+            "clinical_probing_questions": [
+              "Do you usually try to avoid these social situations because they are so difficult? Do you try to stay away from them? For example, do you not go to a party, do you stay home from work or university to avoid reporting, or do you report only to the teacher? How often do you do this?",
+              "Do you do these things even though they make you feel very nervous and anxious or scared? Do you do these things even though it is very hard for you?",
+              "Are there things you completely refuse to participate in or do?"
+            ]
+          }
+        ],
+        "E": [
+          {
+            "objective": "Assesses whether the individual's fear or anxiety is disproportionate/exaggerated in relation to the actual threat that exists in different social situations (i.e., can it be excluded that situations actually pose a risk of danger?).",
+            "clinical_probing_questions": [
+              "Do you think everyone feels the same way as you do in these situations? Do you think it feels more difficult for you than it does for other people your age?",
+              "Is there anything in the situations you are afraid of that is really threatening, offensive or dangerous? If so, what could it be?",
+              "Do your family, relatives or friends think you are excessively fearful and anxious in or about social situations?"
+            ]
+          }
+        ],
+        "F": [
+          {
+            "objective": "Assesses whether the individual's fear, anxiety or avoidance is persistent (has been present for several months).",
+            "clinical_probing_questions": [
+              "How long has it been this hard for you to deal with the situations we've talked about?",
+              "Do you remember when it started to feel difficult?",
+              "Do you remember when you started trying to stay away from and avoid these situations?",
+              "Has it been like this for a long time? Has it been like this for several months?"
+            ]
+          }
+        ],
+        "G": [
+          {
+            "objective": "Assesses whether the individual's fear, anxiety or avoidance is causing clinically significant suffering or disability (e.g., in social, educational, family or other areas).",
+            "clinical_probing_questions": [
+              "How does this affect your life? Does it cause problems? In what way?",
+              "Does it cause problems in your free time? When you go out with friends?",
+              "Is your work or universitywork affected in any way? In what way?",
+              "Does this mean that you need a lot of support, help or adjustment from your family, partners or close family or friends? In what way?",
+              "Is your life affected in any other way that I have not asked about?"
+            ]
+          }
+        ],
+        "H": [
+          {
+            "objective": "Assesses whether a substance, such as illegal drugs or medications, or another medical condition can be excluded as the cause of the symptoms.",
+            "clinical_probing_questions": [
+              "Do you use or have you used alcohol or other drugs that could cause your symptoms?",
+              "Have you been (physically) ill while having these symptoms?",
+              "Have you taken any medication that could be causing your symptoms?"
+            ]
+          }
+        ],
+        "J": [
+          {
+            "objective": "Assesses whether it can be excluded that the individual's fear, anxiety or avoidance is related to some other disease or injury (e.g., obesity or disfigurement due to injuries can lead to avoidance of social situations).",
+            "clinical_probing_questions": [
+              "Do you have any injury or illness that affects you in such situations? Which one? In what way does it affect you? How long has this been the case?",
+              "Do you think everyone suffering from the same disease feels the same way as you do in these situations?",
+              "Do you think it is harder for you than it is for others with the same condition? What do your partners or close family or doctors think about it?"
+            ]
+          }
+        ]
+      },
+      "severity_logic": {
+        "scale": "0 to 4 Likert scale for each item",
+        "instruction": "Answer the 10 items such that your AVERAGE score matches the severity tier below:",
+        "thresholds": {
+          "none": "Target an average score around 0 (range 0.0 - 0.4). You rarely or never experience these symptoms. Answer mostly 0s.",
+          "mild": "Target an average score around 1 (range 0.5 - 1.4). Answer mostly 1s with occasional 0s or 2s.",
+          "moderate": "Target an average score around 2 (range 1.5 - 2.4). Answer mostly 2s with some 1s or 3s.",
+          "severe": "Target an average score around 3 (range 2.5 - 3.4). Answer mostly 3s with some 2s or 4s.",
+          "extreme": "Target an average score around 4 (range 3.5 - 4.0). Answer almost entirely 4s."
+        }
+      },
+      "questionnaire_alignment": [
+        "felt moments of sudden terror, fear, or fright in social situations",
+        "felt anxious, worried, or nervous about social situations",
+        "had thoughts of being rejected, humiliated, embarrassed, ridiculed, or offending others",
+        "felt a racing heart, sweaty, trouble breathing, faint, or shaky in social situations",
+        "felt tense muscles, felt on edge or restless, or had trouble relaxing in social situations",
+        "avoided, or did not approach or enter, social situations",
+        "left social situations early or participated only minimally (e.g., said little, avoided eye contact)",
+        "spent a lot of time preparing what to say or how to act in social situations",
+        "distracted myself to avoid thinking about social situations",
+        "needed help to cope with social situations (e.g., alcohol or medications, superstitious objects)"
+      ]
+    },
+    "PANIC": {
+      "full_name": "PANIC DISORDER",
+      "clinical_definition": "PANIC DISORDER is characterised by recurrent panic attacks that come on suddenly and cause powerful anxiety reactions with various bodily symptoms. A panic attack is an unexpectedly strong feeling of fear and discomfort that develops rapidly (within minutes) with four or more physical symptoms. Common catastrophic thoughts in individuals who have panic attacks are that they are about to faint, will vomit, have an illness or are dying. For diagnosis, the panic attacks must be accompanied by several weeks of either persistent worry about having more panic attacks or behavioural changes aimed at avoiding more panic attacks (e.g., avoiding places where one has had attacks in the past, unfamiliar places, certain situations or activities).",
+      "dsm5_criteria": {
+        "A1-A13": [
+          {
+            "objective": "Assesses and mark whether the individual has the following symptoms during a panic attack:",
+            "clinical_probing_questions": []
+          }
+        ],
+        "B1": [
+          {
+            "objective": "Assesses whether at least one of the panic attacks has been accompanied by persistent worry (has been present for at least 1 month) about having further attacks and/or about the consequences of the attacks.",
+            "clinical_probing_questions": [
+              "Are you afraid or worried about having more attacks? How much do you worry about it? How long have you been worrying about it? Has it been like this for more than 1 month?",
+              "Are you worried about what could happen to you during an attack, such as losing control, going crazy, getting sick or dying? How long have you been worrying about this? Has it been like this for more than 1 month?"
+            ]
+          }
+        ],
+        "B2": [
+          {
+            "objective": "Assesses whether the panic attacks have been accompanied by significant and persistent behavioural change (have been present for at least 1 month).",
+            "clinical_probing_questions": [
+              "Has your behaviour changed as a result of the panic attacks? In what way? How long has this been the case? Has it been like this for more than 1 month?",
+              "Do you avoid situations that you think could trigger a panic attack? How long have you been avoiding different situations? Has this been the case for more than 1 month?",
+              "Do you avoid moving fast or socializeing sports for fear of triggering a panic attack?",
+              "Do you avoid other things or situations that could trigger an attack? Which ones?",
+              "Do you always avoid situations that could trigger an attack or have you found a way to cope with them? How do you do it?"
+            ]
+          }
+        ],
+        "C": [
+          {
+            "objective": "Assesses whether a substance, such as illegal drugs or medications, or another medical condition can be excluded as the cause of the symptoms.",
+            "clinical_probing_questions": [
+              "Do you use or have you used alcohol or other drugs that could cause your symptoms?",
+              "Have you been (physically) ill while having these symptoms?",
+              "Have you taken any medication that could be causing your symptoms?"
+            ]
+          }
+        ]
+      },
+      "severity_logic": {
+        "scale": "0 to 4 Likert scale for each item",
+        "instruction": "Answer the 10 items such that your AVERAGE score matches the severity tier below:",
+        "thresholds": {
+          "none": "Target an average score around 0 (range 0.0 - 0.4). You rarely or never experience these symptoms. Answer mostly 0s.",
+          "mild": "Target an average score around 1 (range 0.5 - 1.4). Answer mostly 1s with occasional 0s or 2s.",
+          "moderate": "Target an average score around 2 (range 1.5 - 2.4). Answer mostly 2s with some 1s or 3s.",
+          "severe": "Target an average score around 3 (range 2.5 - 3.4). Answer mostly 3s with some 2s or 4s.",
+          "extreme": "Target an average score around 4 (range 3.5 - 4.0). Answer almost entirely 4s."
+        }
+      },
+      "questionnaire_alignment": [
+        "felt moments of sudden terror, fear or fright, sometimes out of the blue (i.e., a panic attack)",
+        "felt anxious, worried, or nervous about having more panic attacks",
+        "had thoughts of losing control, dying, going crazy, or other bad things happening because of a panic attacks",
+        "felt a racing heart, sweaty, trouble breathing, faint, or shaky",
+        "felt tense muscles, felt on edge or restless, or had trouble relaxing or trouble sleeping",
+        "avoided, or did not approach or enter, situations in which panic attacks might occur",
+        "left situations early, or participated only minimally, because of panic attacks",
+        "spent a lot of time preparing for, or procrastinating about (putting off), situations in which panic attacks might occur",
+        "distracted myself to avoid thinking about panic attacks",
+        "needed help to cope with panic attacks (e.g., alcohol or medication, superstitious objects, other people)"
+      ]
+    },
+    "AGORAPHOBIA": {
+      "full_name": "AGORAPHOBIA",
+      "clinical_definition": "AGORAPHOBIA is characterised by excessive anxiety and fear of travelling by bus, train, car, subway or plane, being in closed places (e.g., cinema, theatre), in open places (e.g., squares, bridges, car parks), standing in a queue, being in a crowd or being away from home alone. These situations almost always cause anxiety or fear and are avoided because of thoughts that it would be difficult to leave or that help would not be available if restrictive or embarrassing symptoms or a panic attack occurred. For diagnosis, the worry and anxiety should be disabling and persistent with a duration of several months.",
+      "dsm5_criteria": {
+        "A1-A5": [
+          {
+            "objective": "Assesses whether the individual has a clear fear or anxiety about any of the following situations below (tick the situations that trigger fear/anxiety):",
+            "clinical_probing_questions": []
+          }
+        ],
+        "B": [
+          {
+            "objective": "Assesses whether the individual is afraid of or avoids agoraphobic situations because of thoughts that it would be difficult to get out of there or that help would not be available if a panic attack or other limiting and embarrassing symptoms were to occur.",
+            "clinical_probing_questions": [
+              "Do you usually avoid different situations because you have thoughts that it would be difficult to get out of them? For example, do you usually avoid taking the bus or going to the cinema or something else because you have such thoughts?",
+              "Do you usually avoid different situations because you have thoughts that no one would be able to help you if something happened to you, such as panic, vomiting, fainting or something else that feels embarrassing?"
+            ]
+          }
+        ],
+        "C": [
+          {
+            "objective": "Assesses if the individual is afraid or anxious almost every time the agoraphobic situations occur.",
+            "clinical_probing_questions": [
+              "Do you almost always get scared, anxious or very stressed in or around these difficult situations?",
+              "Do you feel this way every or almost every time you are in these situations?"
+            ]
+          }
+        ],
+        "D": [
+          {
+            "objective": "Assesses whether the individual actively avoids the agoraphobic situations, or requires the company of familiar people, or endures the situations with intense discomfort, fear or anxiety.",
+            "clinical_probing_questions": [
+              "Do you often avoid these situations because they feel so difficult? Do you actively try to stay away from them? For example, have you not gone to a fun activity to avoid travelling by train or bus? How often does this happen?",
+              "Do you do these things even though they make you feel very nervous, anxious or scared? Do you do these things even though it is very hard for you?",
+              "Do you usually ask your partners or close family, siblings or friends to accompany you in these difficult situations? Do you usually stay at home if no one can come with you?"
+            ]
+          }
+        ],
+        "E": [
+          {
+            "objective": "Assesses whether the individual's fear or anxiety is disproportionate/excessive in relation to the actual threat posed by the agoraphobic situations (i.e., can it be excluded that these situations actually pose a risk of danger).",
+            "clinical_probing_questions": [
+              "Do you think everyone feels the same way as you do in these situations? Do you think it feels harder for you than it does for others?",
+              "Is there anything in the situations you are afraid of that is really threatening, offensive or dangerous? If so, what could it be?",
+              "Do your family, relatives or friends think you are excessively scared and anxious in these situations?"
+            ]
+          }
+        ],
+        "F": [
+          {
+            "objective": "Assesses if the individual's fear, anxiety or avoidance is persistent (has been present for several months).",
+            "clinical_probing_questions": [
+              "How long has it been this hard for you with the situations we talked about? Has it been like this for several months?"
+            ]
+          }
+        ],
+        "G": [
+          {
+            "objective": "Assesses whether the individual's fear, anxiety or avoidance is causing clinically significant distress or impairment (e.g., in social, work or university, family or other areas).",
+            "clinical_probing_questions": [
+              "How does this affect your life? Does it cause problems? In what way?",
+              "Does it cause problems in your free time? When you go out with friends?",
+              "Is your work or universitywork affected in any way? In what way?",
+              "Does this mean that you need a lot of support, help or adjustment from your family, partners or close family or friends? In what way?",
+              "Is your life affected in any other way that I have not asked about? In what way?"
+            ]
+          }
+        ],
+        "H": [
+          {
+            "objective": "Assesses whether it can be excluded that the individual's symptoms is related to another disease (e.g., inflammatory bowel disease, enuresis, or encopresis, which may lead to avoidance of certain situations).",
+            "clinical_probing_questions": [
+              "Do you have an ongoing illness that affects you in such situations? Which one? How does it affect you?",
+              "How long has this been the case?",
+              "Do you think that everyone with the same disease feels the same way as you do in these situations? Do you think it is harder for you than it is for others with the same disease? What do your partners or close family or doctors think about it?"
+            ]
+          }
+        ]
+      },
+      "severity_logic": {
+        "scale": "0 to 4 Likert scale for each item",
+        "instruction": "Answer the 10 items such that your AVERAGE score matches the severity tier below:",
+        "thresholds": {
+          "none": "Target an average score around 0 (range 0.0 - 0.4). You rarely or never experience these symptoms. Answer mostly 0s.",
+          "mild": "Target an average score around 1 (range 0.5 - 1.4). Answer mostly 1s with occasional 0s or 2s.",
+          "moderate": "Target an average score around 2 (range 1.5 - 2.4). Answer mostly 2s with some 1s or 3s.",
+          "severe": "Target an average score around 3 (range 2.5 - 3.4). Answer mostly 3s with some 2s or 4s.",
+          "extreme": "Target an average score around 4 (range 3.5 - 4.0). Answer almost entirely 4s."
+        }
+      },
+      "questionnaire_alignment": [
+        "felt moments of sudden terror, fear, or fright in these situations",
+        "felt anxious, worried, or nervous about these situations",
+        "had thoughts about panic attacks, uncomfortable physical sensations, getting lost, or being overcome with fear in these situations",
+        "felt a racing heart, sweaty, trouble breathing, faint, or shaky in these situations",
+        "felt tense muscles, felt on edge or restless, or had trouble relaxing in these situations",
+        "avoided, or did not approach or enter, these situations",
+        "moved away from these situations, left them early, or remained close to the exits",
+        "spent a lot of time preparing for, or procrastinating about (putting off), these situations",
+        "distracted myself to avoid thinking about these situations",
+        "needed help to cope with these situations (e.g., alcohol or medication, superstitious objects, other people)"
+      ]
+    },
+    "GENERALIZED ANXIETY": {
+      "full_name": "GENERALIZED ANXIETY DISORDER",
+      "clinical_definition": "Major depressive episode characterized by persistent low mood and loss of interest.",
+      "dsm5_criteria": {},
+      "severity_logic": {
+        "scale": "0 to 4 Likert scale for each item",
+        "instruction": "Answer the 10 items such that your AVERAGE score matches the severity tier below:",
+        "thresholds": {
+          "none": "Target an average score around 0 (range 0.0 - 0.4). You rarely or never experience these symptoms. Answer mostly 0s.",
+          "mild": "Target an average score around 1 (range 0.5 - 1.4). Answer mostly 1s with occasional 0s or 2s.",
+          "moderate": "Target an average score around 2 (range 1.5 - 2.4). Answer mostly 2s with some 1s or 3s.",
+          "severe": "Target an average score around 3 (range 2.5 - 3.4). Answer mostly 3s with some 2s or 4s.",
+          "extreme": "Target an average score around 4 (range 3.5 - 4.0). Answer almost entirely 4s."
+        }
+      },
+      "questionnaire_alignment": [
+        "felt moments of sudden terror, fear, or fright",
+        "felt anxious, worried, or nervous",
+        "had thoughts of bad things happening, such as family tragedy, ill health, loss of a job, or accidents",
+        "felt a racing heart, sweaty, trouble breathing, faint, or shaky",
+        "felt tense muscles, felt on edge or restless, or had trouble relaxing or trouble sleeping",
+        "avoided, or did not approach or enter, situations about which I worry",
+        "left situations early or participated only minimally due to worries",
+        "spent lots of time making decisions, putting off making decisions, or preparing for situations, due to worries",
+        "sought reassurance from others due to worries",
+        "needed help to cope with anxiety (e.g., alcohol or medication, superstitious objects, or other people)"
+      ]
+    },
+    "DEPRESSION": {
+      "full_name": "MAJOR DEPRESSIVE DISORDER",
+      "clinical_definition": "Major depressive episode characterized by persistent low mood and loss of interest.",
+      "dsm5_criteria": {},
+      "severity_logic": {
+        "scale": "0 to 3 Likert scale for each item (0=Not at all, 1=Several days, 2=More than half the days, 3=Nearly every day)",
+        "instruction": "Answer the 9 items such that your TOTAL sum score matches the severity tier below:",
+        "thresholds": {
+          "none": "Target a TOTAL score between 0 and 4. You rarely or never experience these symptoms. You would answer mostly 0s.",
+          "mild": "Target a TOTAL score between 5 and 9 (Medium). Symptoms are present but mostly manageable.",
+          "moderate": "Target a TOTAL score between 10 and 14 (Moderated). Symptoms cause clear difficulty.",
+          "severe": "Target a TOTAL score between 15 and 19 (Moderately Severe). Symptoms are highly distressing and frequent.",
+          "extreme": "Target a TOTAL score between 20 and 27 (Severe). Symptoms are incapacitating and constant. You would answer mostly 3s."
+        }
+      },
+      "questionnaire_alignment": []
+    }
+  }
