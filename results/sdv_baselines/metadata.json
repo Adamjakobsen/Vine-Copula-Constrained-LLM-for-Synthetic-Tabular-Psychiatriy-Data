@@ -1,0 +1,223 @@
+{
+    "tables": {
+        "table": {
+            "columns": {
+                "W1_age_r": {
+                    "sdtype": "numerical"
+                },
+                "W1_sex_r": {
+                    "sdtype": "categorical"
+                },
+                "W1_depression_it1": {
+                    "sdtype": "categorical"
+                },
+                "W1_depression_it2": {
+                    "sdtype": "categorical"
+                },
+                "W1_depression_it3": {
+                    "sdtype": "categorical"
+                },
+                "W1_depression_it4": {
+                    "sdtype": "categorical"
+                },
+                "W1_depression_it5": {
+                    "sdtype": "categorical"
+                },
+                "W1_depression_it6": {
+                    "sdtype": "categorical"
+                },
+                "W1_depression_it7": {
+                    "sdtype": "categorical"
+                },
+                "W1_depression_it8": {
+                    "sdtype": "categorical"
+                },
+                "W1_depression_it9": {
+                    "sdtype": "categorical"
+                },
+                "W1_separation_anxiety_it1": {
+                    "sdtype": "categorical"
+                },
+                "W1_separation_anxiety_it2": {
+                    "sdtype": "categorical"
+                },
+                "W1_separation_anxiety_it3": {
+                    "sdtype": "categorical"
+                },
+                "W1_separation_anxiety_it4": {
+                    "sdtype": "categorical"
+                },
+                "W1_separation_anxiety_it5": {
+                    "sdtype": "categorical"
+                },
+                "W1_separation_anxiety_it6": {
+                    "sdtype": "categorical"
+                },
+                "W1_separation_anxiety_it7": {
+                    "sdtype": "categorical"
+                },
+                "W1_separation_anxiety_it8": {
+                    "sdtype": "categorical"
+                },
+                "W1_separation_anxiety_it9": {
+                    "sdtype": "categorical"
+                },
+                "W1_separation_anxiety_it10": {
+                    "sdtype": "categorical"
+                },
+                "W1_specific_phobia_it1": {
+                    "sdtype": "categorical"
+                },
+                "W1_specific_phobia_it2": {
+                    "sdtype": "categorical"
+                },
+                "W1_specific_phobia_it3": {
+                    "sdtype": "categorical"
+                },
+                "W1_specific_phobia_it4": {
+                    "sdtype": "categorical"
+                },
+                "W1_specific_phobia_it5": {
+                    "sdtype": "categorical"
+                },
+                "W1_specific_phobia_it6": {
+                    "sdtype": "categorical"
+                },
+                "W1_specific_phobia_it7": {
+                    "sdtype": "categorical"
+                },
+                "W1_specific_phobia_it8": {
+                    "sdtype": "categorical"
+                },
+                "W1_specific_phobia_it9": {
+                    "sdtype": "categorical"
+                },
+                "W1_specific_phobia_it10": {
+                    "sdtype": "categorical"
+                },
+                "W1_social_anxiety_it1": {
+                    "sdtype": "categorical"
+                },
+                "W1_social_anxiety_it2": {
+                    "sdtype": "categorical"
+                },
+                "W1_social_anxiety_it3": {
+                    "sdtype": "categorical"
+                },
+                "W1_social_anxiety_it4": {
+                    "sdtype": "categorical"
+                },
+                "W1_social_anxiety_it5": {
+                    "sdtype": "categorical"
+                },
+                "W1_social_anxiety_it6": {
+                    "sdtype": "categorical"
+                },
+                "W1_social_anxiety_it7": {
+                    "sdtype": "categorical"
+                },
+                "W1_social_anxiety_it8": {
+                    "sdtype": "categorical"
+                },
+                "W1_social_anxiety_it9": {
+                    "sdtype": "categorical"
+                },
+                "W1_social_anxiety_it10": {
+                    "sdtype": "categorical"
+                },
+                "W1_panic_it1": {
+                    "sdtype": "categorical"
+                },
+                "W1_panic_it2": {
+                    "sdtype": "categorical"
+                },
+                "W1_panic_it3": {
+                    "sdtype": "categorical"
+                },
+                "W1_panic_it4": {
+                    "sdtype": "categorical"
+                },
+                "W1_panic_it5": {
+                    "sdtype": "categorical"
+                },
+                "W1_panic_it6": {
+                    "sdtype": "categorical"
+                },
+                "W1_panic_it7": {
+                    "sdtype": "categorical"
+                },
+                "W1_panic_it8": {
+                    "sdtype": "categorical"
+                },
+                "W1_panic_it9": {
+                    "sdtype": "categorical"
+                },
+                "W1_panic_it10": {
+                    "sdtype": "categorical"
+                },
+                "W1_agoraphobia_it1": {
+                    "sdtype": "categorical"
+                },
+                "W1_agoraphobia_it2": {
+                    "sdtype": "categorical"
+                },
+                "W1_agoraphobia_it3": {
+                    "sdtype": "categorical"
+                },
+                "W1_agoraphobia_it4": {
+                    "sdtype": "categorical"
+                },
+                "W1_agoraphobia_it5": {
+                    "sdtype": "categorical"
+                },
+                "W1_agoraphobia_it6": {
+                    "sdtype": "categorical"
+                },
+                "W1_agoraphobia_it7": {
+                    "sdtype": "categorical"
+                },
+                "W1_agoraphobia_it8": {
+                    "sdtype": "categorical"
+                },
+                "W1_agoraphobia_it9": {
+                    "sdtype": "categorical"
+                },
+                "W1_agoraphobia_it10": {
+                    "sdtype": "categorical"
+                },
+                "W1_generalized_anxiety_it1": {
+                    "sdtype": "categorical"
+                },
+                "W1_generalized_anxiety_it2": {
+                    "sdtype": "categorical"
+                },
+                "W1_generalized_anxiety_it3": {
+                    "sdtype": "categorical"
+                },
+                "W1_generalized_anxiety_it4": {
+                    "sdtype": "categorical"
+                },
+                "W1_generalized_anxiety_it5": {
+                    "sdtype": "categorical"
+                },
+                "W1_generalized_anxiety_it6": {
+                    "sdtype": "categorical"
+                },
+                "W1_generalized_anxiety_it7": {
+                    "sdtype": "categorical"
+                },
+                "W1_generalized_anxiety_it8": {
+                    "sdtype": "categorical"
+                },
+                "W1_generalized_anxiety_it9": {
+                    "sdtype": "categorical"
+                },
+                "W1_generalized_anxiety_it10": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}

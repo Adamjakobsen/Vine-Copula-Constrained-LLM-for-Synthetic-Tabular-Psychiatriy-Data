@@ -1,0 +1,14 @@
+{
+  "prompt_manifest": {
+    "profile_mode": "demographics_only",
+    "n_patients": 562,
+    "real_demographics_file": "./data/patient_severities.csv",
+    "sampling": "empirical joint age-sex sampling with replacement",
+    "seed": 42
+  },
+  "workflow_mode": "simple",
+  "actor_model": "gemini-2.5-flash",
+  "critic_model": "gemini-2.5-flash",
+  "max_retries": 2,
+  "questionnaire_file": "./documents/questionnaire.json"
+}

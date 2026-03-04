@@ -1,0 +1,7 @@
+{
+  "profile_mode": "demographics_only",
+  "n_patients": 562,
+  "real_demographics_file": "./data/patient_severities.csv",
+  "sampling": "empirical joint age-sex sampling with replacement",
+  "seed": 42
+}

@@ -1,0 +1,6 @@
+{
+  "profile_mode": "copula_profile",
+  "n_patients": 562,
+  "profiles_file": "./data/synthetic_patient_profiles_vine_continuous.json",
+  "kg_file": "./documents/knowledge_graph.json"
+}
